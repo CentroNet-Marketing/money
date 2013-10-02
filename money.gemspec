@@ -24,6 +24,7 @@ Test responsibly :-)
   s.required_ruby_version     = ">= 1.8.7"
 
   s.add_dependency "i18n",       "~> 0.6.4"
+  s.add_dependency "multi_json"
 
   s.add_development_dependency "rspec",       "~> 2.14"
   s.add_development_dependency "yard",        "~> 0.8"
